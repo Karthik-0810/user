@@ -13,7 +13,7 @@
 set -eEuo pipefail
 
 readonly PROG=${0##*/}
-readonly PROG_VERSION='3.x-dev'
+readonly PROG_VERSION='v3.0.0-Alpha'
 
 ################################################################################
 # util functions

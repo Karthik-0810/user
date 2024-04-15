@@ -10,7 +10,7 @@
 # @author superhj1987 (superhj1987 at 126 dot com)
 
 readonly PROG=${0##*/}
-readonly PROG_VERSION='3.x-dev'
+readonly PROG_VERSION='v3.0.0-Alpha'
 # choosing between $0 and BASH_SOURCE
 # https://stackoverflow.com/a/35006505/922688
 # How can I get the source directory of a Bash script from within the script itself?
